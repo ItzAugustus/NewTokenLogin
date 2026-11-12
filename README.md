@@ -13,6 +13,7 @@
 
 <p align="center">
   用 Refresh Token 登录 Minecraft 的 Fabric mod<br>
+  可以储存多个账号和自动刷新Account token
   支持Mod Menu<br>
   可以二次更改，发布需要通知我并且允许<br>
   前置：Fabric Loader 0.19.5+ 和 Fabric Api<br>
