@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/icon.png" width="160" alt="TokenLogin">
+  <img src="icon.png" width="160" alt="TokenLogin">
 </p>
 
 <h1 align="center">TokenLogin</h1>
