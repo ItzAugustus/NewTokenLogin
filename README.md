@@ -12,8 +12,9 @@
 </p>
 
 <p align="center">
-  用 Refresh Token 登录 Minecraft 的 Fabric 客户端模组。<br>
-  把 Refresh Token 换成 Access Token 并直接切换游戏会话，支持多账号、头像、剩余时间和自动续期。
+  用 Refresh Token 登录 Minecraft 的 Fabric mod<br>
+  支持Mod Menu
+  可以二次更改，发布需要通知我并且允许
 </p>
 
 
