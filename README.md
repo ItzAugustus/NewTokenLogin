@@ -12,9 +12,9 @@
 </p>
 
 <p align="center">
-  用 Refresh Token 登录 Minecraft 的 Fabric mod<br>
+  用 Refresh Token 登录 Minecraft 的 Fabric mod
   支持Mod Menu
   可以二次更改，发布需要通知我并且允许
-</p>
-
-
+  前置：Fabric Loader 0.19.5+ 和 Fabric Api
+  其他版本可以自行构建
+  b站uid：3493114790546103 可以联系我
